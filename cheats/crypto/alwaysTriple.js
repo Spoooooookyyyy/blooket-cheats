@@ -3,16 +3,35 @@
 * Copyright (c) Sh1N02 2023
 *
 * You may not reproduce or distribute any code inside this file without the licenser's permission.
-* You may not copy, modify, steal, skid, or recreate any of the code inside this file.
+recreate any of the code inside this file.
 * You may not under any circumstance republish any code from this file as your own.
 * 
-* ALL TERMS STATED IN THE LINK BELOW APPLY ASWELL
-* https://github.com/Sh1N02/Blooket-Cheats/blob/main/LICENSE
-*/
+192021222324
+16685921210.2555
 
-/* THE UPDATE CHECKER IS ADDED DURING COMMIT PREP, THERE MAY BE REDUNDANT CODE, DO NOT TOUCH */
 
-(() => {
+
+
+745129854623
+-89456230.-7120.562305623...
+blooketcheat51161595914812359684658596868858585858956279
+
+
+
+* https://github.com/Sh1N02/Blooket-Cheats/blob/main/LICENSE 8749adhasm#
+
+
+
+*/zxcvbnm,./1322#
+#
+#
+
+
+
+1697nnnvdkkvdsnmdhgnull=bad fuck you shut up you little b*tsh#
+    
+    d7sawtqjx5qwetrqwertyuiop[]#789asdfghjkl;'
+        456(() => {
     const cheat = (async () => {
         setInterval(() => Object.values((function react(r = document.querySelector("body>div")) { return Object.values(r)[1]?.children?.[0]?._owner.stateNode ? r : react(r.querySelector(":scope>div")) })())[1].children[0]._owner.stateNode.setState({ choices: [{ type: "mult", val: 3, rate: .075, blook: "Brainy Bot", text: "Triple Crypto" }] }), 25);
     });
